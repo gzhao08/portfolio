@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/REPOSITORY/static/css/main.9c4e8071.css",
-    "main.js": "/REPOSITORY/static/js/main.bd68768a.js",
-    "static/js/453.1407b060.chunk.js": "/REPOSITORY/static/js/453.1407b060.chunk.js",
-    "static/media/china-photo-cropped.JPG": "/REPOSITORY/static/media/china-photo-cropped.d06084560d0400761202.JPG",
-    "static/media/gz-full_logo.png": "/REPOSITORY/static/media/gz-full_logo.8ac209066108991ea583.png",
-    "index.html": "/REPOSITORY/index.html",
-    "main.9c4e8071.css.map": "/REPOSITORY/static/css/main.9c4e8071.css.map",
-    "main.bd68768a.js.map": "/REPOSITORY/static/js/main.bd68768a.js.map",
-    "453.1407b060.chunk.js.map": "/REPOSITORY/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/gzhao08/portfolio/static/css/main.9c4e8071.css",
+    "main.js": "/gzhao08/portfolio/static/js/main.17cd9bb1.js",
+    "static/js/453.1407b060.chunk.js": "/gzhao08/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/china-photo-cropped.JPG": "/gzhao08/portfolio/static/media/china-photo-cropped.d06084560d0400761202.JPG",
+    "static/media/gz-full_logo.png": "/gzhao08/portfolio/static/media/gz-full_logo.8ac209066108991ea583.png",
+    "index.html": "/gzhao08/portfolio/index.html",
+    "main.9c4e8071.css.map": "/gzhao08/portfolio/static/css/main.9c4e8071.css.map",
+    "main.17cd9bb1.js.map": "/gzhao08/portfolio/static/js/main.17cd9bb1.js.map",
+    "453.1407b060.chunk.js.map": "/gzhao08/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c4e8071.css",
-    "static/js/main.bd68768a.js"
+    "static/js/main.17cd9bb1.js"
   ]
 }
