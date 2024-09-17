@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/gzhao08/portfolio/static/css/main.9c4e8071.css",
-    "main.js": "/gzhao08/portfolio/static/js/main.17cd9bb1.js",
-    "static/js/453.1407b060.chunk.js": "/gzhao08/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/china-photo-cropped.JPG": "/gzhao08/portfolio/static/media/china-photo-cropped.d06084560d0400761202.JPG",
-    "static/media/gz-full_logo.png": "/gzhao08/portfolio/static/media/gz-full_logo.8ac209066108991ea583.png",
-    "index.html": "/gzhao08/portfolio/index.html",
-    "main.9c4e8071.css.map": "/gzhao08/portfolio/static/css/main.9c4e8071.css.map",
-    "main.17cd9bb1.js.map": "/gzhao08/portfolio/static/js/main.17cd9bb1.js.map",
-    "453.1407b060.chunk.js.map": "/gzhao08/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.0fd317bf.css",
+    "main.js": "/portfolio/static/js/main.4682a46d.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/china-photo-cropped.JPG": "/portfolio/static/media/china-photo-cropped.d06084560d0400761202.JPG",
+    "static/media/gz-full_logo.png": "/portfolio/static/media/gz-full_logo.8ac209066108991ea583.png",
+    "static/media/github-logo-transparent.png": "/portfolio/static/media/github-logo-transparent.c8007a9fb185cb152ee6.png",
+    "index.html": "/portfolio/index.html",
+    "main.0fd317bf.css.map": "/portfolio/static/css/main.0fd317bf.css.map",
+    "main.4682a46d.js.map": "/portfolio/static/js/main.4682a46d.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c4e8071.css",
-    "static/js/main.17cd9bb1.js"
+    "static/css/main.0fd317bf.css",
+    "static/js/main.4682a46d.js"
   ]
 }
