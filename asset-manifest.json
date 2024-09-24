@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.af5d7111.css",
-    "main.js": "/static/js/main.aff2d577.js",
+    "main.js": "/static/js/main.308e975a.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/car_project.jpg": "/static/media/car_project.d33f44975189739a329f.jpg",
     "static/media/chair_project.jpg": "/static/media/chair_project.76c479bd3e0255fc0f91.jpg",
@@ -12,11 +12,11 @@
     "static/media/github-logo-transparent.png": "/static/media/github-logo-transparent.c8007a9fb185cb152ee6.png",
     "index.html": "/index.html",
     "main.af5d7111.css.map": "/static/css/main.af5d7111.css.map",
-    "main.aff2d577.js.map": "/static/js/main.aff2d577.js.map",
+    "main.308e975a.js.map": "/static/js/main.308e975a.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af5d7111.css",
-    "static/js/main.aff2d577.js"
+    "static/js/main.308e975a.js"
   ]
 }
