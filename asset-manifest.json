@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.82b77bd8.css",
-    "main.js": "/static/js/main.d4858f2f.js",
+    "main.css": "/static/css/main.af5d7111.css",
+    "main.js": "/static/js/main.aff2d577.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/china-photo-cropped.JPG": "/static/media/china-photo-cropped.d06084560d0400761202.JPG",
+    "static/media/car_project.jpg": "/static/media/car_project.d33f44975189739a329f.jpg",
+    "static/media/chair_project.jpg": "/static/media/chair_project.76c479bd3e0255fc0f91.jpg",
+    "static/media/wafer_project.jpg": "/static/media/wafer_project.fdfb8018bd2eb1477466.jpg",
+    "static/media/claw_project.jpg": "/static/media/claw_project.2cf324b48515e759fdc9.jpg",
+    "static/media/angela_bday.jpg": "/static/media/angela_bday.016e1a736110c2a7beb6.jpg",
     "static/media/gz-full_logo.png": "/static/media/gz-full_logo.8ac209066108991ea583.png",
     "static/media/github-logo-transparent.png": "/static/media/github-logo-transparent.c8007a9fb185cb152ee6.png",
     "index.html": "/index.html",
-    "main.82b77bd8.css.map": "/static/css/main.82b77bd8.css.map",
-    "main.d4858f2f.js.map": "/static/js/main.d4858f2f.js.map",
+    "main.af5d7111.css.map": "/static/css/main.af5d7111.css.map",
+    "main.aff2d577.js.map": "/static/js/main.aff2d577.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82b77bd8.css",
-    "static/js/main.d4858f2f.js"
+    "static/css/main.af5d7111.css",
+    "static/js/main.aff2d577.js"
   ]
 }
